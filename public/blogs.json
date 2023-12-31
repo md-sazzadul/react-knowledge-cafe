@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/yQKrx3K/8828328.jpg",
+        "title": "Unraveling the Wonders of Web Development: A Journey into Coding Excellence",
+        "author": "Aurora Mystique",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "Mar 15, 2023",
+        "reading_time": 25,
+        "hashtags": [
+            "#webdevelopment",
+            "#coding",
+            "#programming"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/d5T0D31/8556158.jpg",
+        "title": "Embarking on a Coding Odyssey: Exploring the Depths of Software Engineering",
+        "author": "Cosmo Voyager",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "Apr 2, 2023",
+        "reading_time": 40,
+        "hashtags": [
+            "#webdev",
+            "#javascript",
+            "#softwareengineering"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/1Q9yJZY/toy-bricks-table-with-word-blog.jpg",
+        "title": "Whimsical HTML Dreams: Crafting Web Narratives with Imagination and Design",
+        "author": "Serena Dreamweaver",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "May 10, 2023",
+        "reading_time": 30,
+        "hashtags": [
+            "#html",
+            "#webdesign",
+            "#imagination"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://example.com/cover4.jpg",
+        "title": "JavaScript Journals: Navigating the Technological Frontier with Code and Innovation",
+        "author": "Binary Nomad",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "Jun 28, 2023",
+        "reading_time": 35,
+        "hashtags": [
+            "#javascript",
+            "#technology",
+            "#coding"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://example.com/cover5.jpg",
+        "title": "Culinary Adventures: A Gastronomic Expedition into the World of Food and Flavor",
+        "author": "Gourmet Explorer",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "Jul 15, 2023",
+        "reading_time": 20,
+        "hashtags": [
+            "#foodie",
+            "#recipes",
+            "#culinary"
+        ]
+    }
+]
